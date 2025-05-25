@@ -610,6 +610,7 @@ section{
 }
 .contact-form form .send{
     display:inline-block;
+    align-self: flex-end;
     padding:12px 28px;
     background: #0ef;
     border-radius: 40px;
